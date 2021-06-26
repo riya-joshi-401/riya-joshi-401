@@ -30,9 +30,11 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riya-joshi-401&show_icons=true&locale=en&layout=compact" alt="riya-joshi-401" /></p>-->
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya-joshi-401&layout=compact&count_private=true&theme=midnight-purple&hide=css)](https://github.com/riya-joshi-401/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya-joshi-401&layout=compact&count_private=true&theme=midnight-purple&hide=css)](https://github.com/riya-joshi-401/github-readme-stats)
+
 ### 📫 Get in touch with me 
-<br>
+
+
 <a href="mailto:riya.joshi@somaiya.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 <a href="https://github.com/riya-joshi-401"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"></a>
 <a href="https://www.linkedin.com/in/riya-joshi-8999961a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="gmail"></a>
