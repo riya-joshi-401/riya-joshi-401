@@ -30,8 +30,7 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riya-joshi-401&show_icons=true&locale=en&layout=compact" alt="riya-joshi-401" /></p>-->
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya-joshi-401&layout=compact&count_private=true&theme=midnight-purple&hide=css)](https://github.com/riya-joshi-401/github-readme-stats)
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya-joshi-401&layout=compact&count_private=true&theme=midnight-purple&hide=css)](https://github.com/riya-joshi-401/github-readme-stats)<br>
 ### 📫 Get in touch with me 
 <br>
 <a href="mailto:riya.joshi@somaiya.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
