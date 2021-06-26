@@ -34,7 +34,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riya-joshi-401&show_icons=true&locale=en&layout=compact" alt="riya-joshi-401" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riya-joshi-401&show_icons=true&locale=en" alt="riya-joshi-401" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riya-joshi-401&show_icons=true&locale=en" alt="riya-joshi-401" /></p>-->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riya-joshi-401&" alt="riya-joshi-401" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riya-joshi-401&" alt="riya-joshi-401" /></p>-->
